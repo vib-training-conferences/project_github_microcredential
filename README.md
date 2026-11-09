@@ -2,43 +2,51 @@
 
 If you found this repository and is not registered in [our micro-credential](https://studiekiezer.ugent.be/2025/micro-credential-reproducible-data-analysis-an-essential-capability-in-modern-science-en) please read more in the last topic.
 
-You should **fork this repository** and in collaboration with a colleague that is also part of the micro-credential course. You develop the project together.
-The project is simple, and consists of creating a repository for documenting concepts, best practices, examples and a cheat-sheet on using Git & GitHub.
+For this project you have two option on how to start:
 
-Your repository must contain a **folder structure, a README file, a gitignore file, a license**. All files must be developed in markdown (MD), you can find more information about [MD here](https://www.markdownguide.org/cheat-sheet/) and about [Liascript](https://liascript.github.io/), a MD dialect. You can add images and printscreens if you want.
+1. You can **fork this repository**, to start a new project.
+
+2. Or share the link to the repository you will work to improve, a real project that you will work on.
+
+Your repository must contain a **defined folder structure, a README file (replace this one in case you have forked), a `.gitignore` file, a license**. All files must be developed in markdown (MD) and/or in the programing language(s) of your project.
+
 
 <span style="color:mediumBlue"> **Think about and inform yourself via internet resources about a useful folder structure in the repository, and cite your sources (2,3, as you see fit)**.</span>
 
+> You can find more information about [MD here](https://www.markdownguide.org/cheat-sheet/) and about [Liascript](https://liascript.github.io/), a MD dialect. You can add images and printscreens if you want.
 
-Define the your collaboration strategy considering:
+
+During this project some concepts and applications will be evaluated
 ----------------------------------------------------
 
-1. Both should work in different branches
+1. Work in different branches
 
-    a. A minimum of 3 branches must be available (main, partner1 and partner2), if necessary more branches can be created.
+    a. A minimum of 3 branches must be available for different development sections. Use good practice to name your branch.
     
     b. The delivered project should be the final merged version.
 
-    c. You can merge directly or using branch pull request if you want someone to review.
+    c. You can merge directly or using branch pull request. Using pull request is a good practice specially when working in group.
 
-2. A minimum of 10 commits per person must be seen in the history.
+2. A minimum of 10 commits is expected to be seen in the history.
 
-3. You need to have at least two solved conflicts in the history, one by each person.
+3. You need to have at least two solved conflicts in the history.
 
 4. You need to revert at least on commit.
 
-5. Search for other Git commands, that were not introduced in the course, choose one or more that you agree could be useful in your work and include in the documentation.
+5. You must have at least one tag in your project.
 
-6. You must have at least one tag in your project.
-
-7. Review and communicate with each other using GitHub-issues.
+7. Using GitHub-issues to define tasks and note ideas.
 
 8. Work as much as possible using command line.
+
+9. TODO If you have not forked this repository for your project. At the end of your project, fork this repository and add a file wich includes your name and describes the difference between Clone, Brancha and Fork. Create a pull request to submite your answer.
 
 Delivery
 -----------
 
 Once with the final version you must <span style="color:mediumBlue">make a pull request</span> to this repository.
+
+Or send the link to an issue you will create in this repositor where you shortely explain your project and share the link for the project repository.
 
 
 **Micro-credential |** Reproducible Data Analysis: an Essential Capability in Modern Science
